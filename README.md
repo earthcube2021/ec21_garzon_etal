@@ -31,6 +31,6 @@ Consult the documentation on [paired notebooks based on Jupytext](https://github
 
 `geoextent` is licensed under MIT license, see file [LICENSE](https://github.com/earthcube2021/ec21_garzon_etal/blob/master/LICENSE).
 
-This project is developed as part of the       [DFG-funded](https://o2r.info/about/#funding) research project Opening Reproducible Research (o2r, [https://o2r.info](https://o2r.info)).
+This project is developed as part of the [DFG-funded](https://o2r.info/about/#funding) research project Opening Reproducible Research (o2r, [https://o2r.info](https://o2r.info)) under project number PE 1632/17-1.
 
 Copyright (C) 2021 - o2r project.
