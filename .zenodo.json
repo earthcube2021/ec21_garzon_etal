@@ -1,0 +1,8 @@
+{
+    "title": "Exploring Research Data Repositories with geoextent",
+    "creators": [
+           {"name": "Sebastian Garzón", "affiliation": "Opening Reproducible Research, Institute for Geoinformatics, University of Münster, Germany",  "orcid": "0000-0002-8335-9312"},
+    {"name" : "Daniel Nüst", "affiliation": "Opening Reproducible Research, Institute for Geoinformatics, University of Münster, Germany",  "orcid": "0000-0002-0024-5046"}  
+    ],
+    "keywords": ["geospatial", "discovery", "metadata", "repositories", "data sharing"]
+}
