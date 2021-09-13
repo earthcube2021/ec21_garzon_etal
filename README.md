@@ -1,4 +1,9 @@
 # Exploring Research Data Repositories with geoextent.
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5496311.svg)](https://doi.org/10.5281/zenodo.5496311)
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_garzon_etal/HEAD)
 
 This notebook presents [geoextent](https://github.com/o2r-project/geoextent), a Python library for reliably extracting the geospatial and temporal extents of files, directories, and repository records. 
